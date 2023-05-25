@@ -1,5 +1,4 @@
-# LabWork5 🚀
-
+# LabWork5 
 ### Laboratory work for assignment 5 in AITU. This is a simple implementation of a ***`Binary Search Tree`*** (BST) in Java. It provides basic operations such as `insertion`, `retrieval`, and `deletion` of `key-value` pairs.
 
 ## `BST` implementation:
